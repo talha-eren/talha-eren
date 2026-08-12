@@ -1,9 +1,3 @@
-<!-- Layout inspired by https://github.com/ismailkucuk/ismailkucuk -->
-
-<div align="center">
-  <img height="300" src="https://github.com/ismailkucuk/ismailkucuk/blob/main/Developer_Yoga_20260503155546.gif?raw=true" alt="Developer at work" />
-</div>
-
 <h1 align="center">
   Hi, I'm Talha Eren Bilikci
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand" />
